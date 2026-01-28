@@ -18,20 +18,14 @@ This repository is intentionally **not comprehensive**. It’s a living set of n
 Depth and coverage will vary by topic and evolve gradually.
 
 ---
-
 ## 📂 Topics Covered
 
-### Data Structures & Algorithms
-- Time & space complexity
-- Problem-solving patterns
-- Recursion and backtracking
-- Core algorithmic concepts
+This repository contains study guides spanning core computer science and software engineering topics, including:
 
-### System Design
-- Scalability fundamentals
-- Databases and data distribution
-- Infrastructure building blocks
-- Real-world engineering tradeoffs
+- **Data Structures & Algorithms** — complexity analysis, problem-solving patterns, and fundamental techniques
+- **System Design** — scalability, distributed systems, infrastructure components, and real-world tradeoffs
+
+Browse the repository folders to see all available guides.
 
 ---
 
