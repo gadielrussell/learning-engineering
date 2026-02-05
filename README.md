@@ -52,7 +52,7 @@ If you find the content useful, feel free to **fork the repository** and adapt i
 
 ## 📚 References & Inspiration
 
-Some material here is written with the assistance of [Claude Web Assistant](https://claude.ai/) and/or inspired by or informed by excellent public resources, including:
+Some material here is written with the assistance of [Claude Web Assistant](https://claude.ai/) and/or referenced, inspired by, or informed by excellent public resources, including:
 
 - **Jesse Farmer’s teaching notes**  
   https://github.com/jfarmer/teaching-misc/tree/main  
