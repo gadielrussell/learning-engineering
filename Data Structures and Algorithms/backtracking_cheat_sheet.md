@@ -1,15 +1,15 @@
 # Backtracking Mastery Cheat Sheet
+
+## Credits
+Adapted from [Teaching Misc.](https://github.com/jfarmer/teaching-misc) (GitHub) by [Jesse Farmer (@jfarmer)](https://github.com/jfarmer), used under [CC BY-NC-SA 4.0](https://github.com/jfarmer/teaching-misc/blob/main/LICENSE).
+
 ## Understanding Through the Maze Metaphor & DFS
 
----
-
-## Core Concept: Backtracking = DFS + Undo
+### Core Concept: Backtracking = DFS + Undo
 
 **Jesse Farmer's Key Insight:** Every backtracking problem is a depth-first search (DFS) of some tree. The tree represents your decision space.
 
-[Jesse Farmer's Learning Repository](https://github.com/jfarmer/teaching-misc/tree/main)
-
-## The GOSPEL OF TREE
+### The "Gospel of Tree"
 Every backtracking problem revolves around the depth-first traversal of SOME tree (call it the Problem Tree). If you make a program whose call tree looks like the Problem Tree then, congrats, you've solved the problem.
 
 1. Get clear on the tree (as clear as you can)
@@ -29,9 +29,9 @@ Maze Metaphor:
 
 ---
 
-## The Three Mental Models
+### The Three Mental Models
 
-### 1. Physical Maze (Jesse's Model)
+#### 1. Physical Maze (Jesse's Model)
 ```
 +---+----------+---+
 | S...........A| C |  S = Start
@@ -46,7 +46,7 @@ Maze Metaphor:
 +--------------+---+
 ```
 
-### 2. Decision Tree (What Actually Happens)
+#### 2. Decision Tree (What Actually Happens)
 ```
                     Start
                   /   |   \
@@ -63,7 +63,7 @@ Maze Metaphor:
                             X
 ```
 
-### 3. Code Execution (The Call Stack)
+#### 3. Code Execution (The Call Stack)
 ```python
 explore(start)
   → explore(A)
@@ -76,8 +76,6 @@ explore(start)
         → explore(H)
           → found X! ✓
 ```
-
----
 
 ## The Universal Backtracking Template
 

@@ -50,24 +50,26 @@ If you find the content useful, feel free to **fork the repository** and adapt i
 
 ---
 
-## 📚 References & Inspiration
+## 📚 Attribution, Sources, and Inspiration
 
 Some material here is written with the assistance of [Claude Web Assistant](https://claude.ai/) and/or referenced, inspired by, or informed by excellent public resources, including:
 
-- **Jesse Farmer’s teaching notes**  
-  https://github.com/jfarmer/teaching-misc/tree/main  
-
-  Referenced for learning and understanding.
+- **Jesse Farmer’s Teaching Misc.**  
+ 
+  Referenced for learning and understanding. 
+  
+  _Adapted from [Teaching Misc.](https://github.com/jfarmer/teaching-misc) (GitHub) by [Jesse Farmer (@jfarmer)](https://github.com/jfarmer), used under [CC BY-NC-SA 4.0](https://github.com/jfarmer/teaching-misc/blob/main/LICENSE)._
 
 - **Big-O Cheat Sheet**   
   https://www.bigocheatsheet.com  
 
   A widely used reference for time and space complexity.
 
-- **Big-O Complexity Cheat Sheet**  
-  https://github.com/ReaVNaiL/Big-O-Complexity-Cheat-Sheet
+- **Daniel Maya's Big-O Complexity Cheat Sheet**  
 
   A comprehensive guide to understanding the time and space complexities of common algorithms and data structures. This repository provides a concise summary of the key concepts in algorithm analysis, presented in an easy-to-read cheat sheet format.
+
+  _Original work Copyright (c) 2021 ReaVNaiL. Available at: [Big-O Complexity Cheat Sheet GitHub Repo](https://github.com/ReaVNaiL/Big-O-Complexity-Cheat-Sheet) by [Daniel Maya (@ReaVNaiL)](https://github.com/ReaVNaiL). Licensed under the [MIT License](https://github.com/ReaVNaiL/Big-O-Complexity-Cheat-Sheet/blob/main/LICENSE)._
 
 ---
 
