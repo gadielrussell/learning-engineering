@@ -59,11 +59,12 @@ Some material here is written with the assistance of [Claude Web Assistant](http
 
   Referenced for learning and understanding.
 
-- **Big-O Cheat Sheet**  
+- **Big-O Cheat Sheet**   
   https://www.bigocheatsheet.com  
 
   A widely used reference for time and space complexity.
 
+- **Big-O Complexity Cheat Sheet**  
   https://github.com/ReaVNaiL/Big-O-Complexity-Cheat-Sheet
 
   A comprehensive guide to understanding the time and space complexities of common algorithms and data structures. This repository provides a concise summary of the key concepts in algorithm analysis, presented in an easy-to-read cheat sheet format.
